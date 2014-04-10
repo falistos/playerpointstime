@@ -1,0 +1,3 @@
+playerpointstime.getreward:
+       description: Get automatic reward from PlayerPointsTime
+       default: true

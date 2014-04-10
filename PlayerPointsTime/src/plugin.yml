@@ -1,0 +1,7 @@
+name: PlayerPointsTime
+main: com.gmail.falistos.PlayerPointsTime.PlayerPointsTime
+version: 1
+commands:
+    pointstime:
+        description: Manage PlayerPointsTime
+depend: [Vault,PlayerPoints]
