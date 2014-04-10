@@ -19,7 +19,7 @@ public class PlayerPointsTime extends JavaPlugin implements Listener {
 	private String prefix = ChatColor.RED + "[" + ChatColor.GOLD + "PlayerPointsTime" + ChatColor.RED + "] " + ChatColor.GREEN;
 	private int taskId;
 	
-	private String version = "0.1";
+	private String version = "0.1.1";
 	
 	public void onEnable() {
 		getLogger().info("Enabled");

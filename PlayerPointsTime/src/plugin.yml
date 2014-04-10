@@ -1,6 +1,6 @@
 name: PlayerPointsTime
 main: com.gmail.falistos.PlayerPointsTime.PlayerPointsTime
-version: 1
+version: 0.1.1
 commands:
     pointstime:
         description: Manage PlayerPointsTime
